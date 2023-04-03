@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 03 18:37:47 CST 2023","Mon Apr 03 18:37:48 CST 2023","846","TestCase","test_weather","TestWeather","","","test_weather[caseinfo0]",""
+"passed","Mon Apr 03 18:34:41 CST 2023","Mon Apr 03 18:34:42 CST 2023","1102","TestCase","test_api","TestApi","","","test_weather",""
+"passed","Mon Apr 03 18:34:42 CST 2023","Mon Apr 03 18:34:45 CST 2023","2614","TestCase","test_api","TestApi","","","test_imageVerifyCode",""
+"passed","Mon Apr 03 18:34:40 CST 2023","Mon Apr 03 18:34:40 CST 2023","1","TestCase","test_api","TestApi","","","test_token",""
+"passed","Mon Apr 03 18:34:40 CST 2023","Mon Apr 03 18:34:41 CST 2023","909","TestCase","test_api","TestApi","","","test_yiyan",""

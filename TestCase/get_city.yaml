@@ -1,0 +1,10 @@
+-
+  title: get data for test_weather
+  request:
+    method: post
+    url: http://api.txapi.cn/v1/weather
+    params:
+      token: WWgtONSlNTY55
+      city: wuhan
+    headers: null
+  validate: null

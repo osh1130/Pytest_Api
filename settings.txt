@@ -1,0 +1,4 @@
+root: E:/TestApi 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
